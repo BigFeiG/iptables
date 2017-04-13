@@ -91,7 +91,7 @@
 /sbin/iptables -A INPUT -s 10.0.0.0/8 -p udp --dport 11211 -j ACCEPT
 
 #nfs
-
+ 
 #svn
 
 #允许邮件
